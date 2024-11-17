@@ -40,5 +40,5 @@ Contributions are welcome! Please fork the repository and use a feature branch f
 License
 MIT License
 Contact
-For issues or feature requests, please reach out to ankitavilas8@gmail.com.
+For issues or feature requests, please reach out to apimpalkar707@gmail.com.
 ![image](https://github.com/user-attachments/assets/af2f8fd8-b7c0-4350-9eb3-bdd6ffa267f2)
